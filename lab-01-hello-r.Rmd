@@ -1,7 +1,7 @@
 ---
-title: "Lab 01 - Hello R"
-author: "Insert your name here"
-date: "Insert date here"
+title: "Lab1 - Hello R"
+author: "Hannah Crawley"
+date: "01/17/2025"
 output: 
   html_document: 
     fig_height: 4
