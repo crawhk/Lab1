@@ -121,3 +121,5 @@ datasaurus_dozen %>%
   print(13)
 ```
  Correlations are all very similar, if not the same  
+ 
+ Made it through Lab1! 
