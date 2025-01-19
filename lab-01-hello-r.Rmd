@@ -4,8 +4,7 @@ author: "Hannah Crawley"
 date: "01/17/2025"
 output: 
   html_document: 
-    fig_height: 4
-    fig_width: 9
+    theme: flatly
 ---
 
 ## Load packages and data
